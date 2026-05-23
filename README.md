@@ -37,6 +37,12 @@ Throughout the year I've developed several projects applying **frontend and back
 
 ---
 
+## 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://alexBarrera457.github.io)
+
+---
+
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-barrera-35b088397/)
